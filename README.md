@@ -1,5 +1,5 @@
 # project name
-pizza-ndelivery
+pizza-delivery
 
 ## AUTHOR 
  Keith mbugi 
