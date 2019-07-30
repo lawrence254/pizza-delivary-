@@ -2,7 +2,7 @@
 pizza-delivery
 
 ## AUTHOR 
- Keith mbugi 
+ Keith Mbugi 
 
  ### date,month,year
  30.07.2019
