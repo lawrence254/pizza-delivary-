@@ -11,4 +11,4 @@ pizza-delivery
  this is a site that enables you to place an order of your favourite pizza.
 
  ### technologies used 
- HTML,CSS, ,BOOTSTRAP and JQARY 
+ HTML,CSS, JS  ,BOOTSTRAP and JQARY 
